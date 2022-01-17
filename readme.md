@@ -35,5 +35,5 @@ Run basic WordPress implementation with
 > Resource: https://help.servmask.com/2018/10/27/how-to-increase-maximum-upload-file-size-in-wordpress/
 
 ## Commands
-* `docker-compose down` removes the containers and default network, but preserves your WordPress database.
-* `docker-compose down --volumes` removes the containers, default network, and the WordPress database.
+* `docker-compose down` removes the containers and default network, but preserves your WordPress database
+* `docker-compose down --volumes` removes the containers, default network, and the WordPress database
